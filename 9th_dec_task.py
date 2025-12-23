@@ -1,4 +1,3 @@
-
 # cleaning the data, removing special characters,space in name and salary.
 import re
 
